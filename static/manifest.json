@@ -1,0 +1,33 @@
+{
+	"short_name": "KonCharge",
+	"name": "KonCharge",
+	"icons": [
+		{
+			"src": "/img/logo_192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/img/logo_1024.png",
+			"type": "image/png",
+			"sizes": "1024x1024"
+		},
+		{
+			"src": "/img/logo_128.ico",
+			"type": "image/ico",
+			"sizes": "128x128"
+		},
+		{
+			"src": "/img/logo_256.ico",
+			"type": "image/ico",
+			"sizes": "256x256"
+		}
+	],
+	"id": "/?source=pwa",
+	"start_url": "/?source=pwa",
+	"background_color": "#080a05",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#538a24",
+	"description": "KonCharge Logo"
+}
